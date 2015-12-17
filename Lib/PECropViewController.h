@@ -29,7 +29,7 @@
 
 @property (nonatomic, readonly) CGRect zoomedCropRect;
 
-
++ (NSBundle *)bundle;
 - (void)resetCropRect;
 - (void)resetCropRectAnimated:(BOOL)animated;
 
