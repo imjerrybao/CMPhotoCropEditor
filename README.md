@@ -4,7 +4,7 @@ Another fork of PEPhotoCropEditor, bugs fixed in Swift.
 
 Image cropping library for iOS, similar to the Photos.app UI.
 
-<img src="https://raw.github.com/imjerrybao/CMPhotoCropEditor/master/Screenshots/ss01.png" alt="ScreenShot 1" width="280px" style="width: 280px;" />&nbsp;<a href="https://vimeo.com/66661806"><img src="https://raw2.github.com/imjerrybao/CMPhotoCropEditor/master/Screenshots/movie03.gif" style="width: 242px; height: 476px;" alt="Movie 1" /></a>
+<img src="https://raw.github.com/imjerrybao/CMPhotoCropEditor/master/Screenshots/ss01.png" alt="ScreenShot 1" width="280px" style="width: 280px;" />&nbsp;<a href="https://vimeo.com/66661806">
 
 
 ## Features
