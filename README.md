@@ -1,6 +1,6 @@
 ## CMPhotoCropEditor
 
-Another fork of [iOS-PEPhotoCropEditor](https://github.com/kishikawakatsumi/PEPhotoCropEditor), bugs fixed in Swift.
+Another fork of [PEPhotoCropEditor](https://github.com/kishikawakatsumi/PEPhotoCropEditor), bugs fixed in Swift.
 
 Image cropping library for iOS, similar to the Photos.app UI.
 
