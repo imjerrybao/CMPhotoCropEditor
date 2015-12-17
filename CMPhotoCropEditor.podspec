@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = "CMPhotoCropEditor"
-  s.version               = "1.0.0"
+  s.version               = "1.0.1"
   s.summary               = "Image cropping library for iOS, similar to the Photos.app UI, bugs fixed in Swift."
   s.homepage              = "https://github.com/imjerrybao/CMPhotoCropEditor"
   s.license               = { :type => "MIT", :file => "LICENSE" }
